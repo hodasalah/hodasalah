@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hoda</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
-- 🔭 I’m currently working on [Real Estate](https://real-estate-app-phi.vercel.app/)
+- 🔭 I’m currently working on [React-Sanity-Portfolio](https://github.com/hodasalah/react-sanity-portfolio)
 
 - 🌱 I’m currently learning **Angular**
 
